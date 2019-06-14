@@ -1,3 +1,6 @@
-[![Build Status](https://github.com/devanshusharma19/test?branch=master)](https://travis-ci.com/devanshusharma19/test)
+[![Build Status](https://travis-ci.com/devanshusharma19/test.svg?branch=master)](https://travis-ci.com/devanshusharma19/test)
+
+
+
 
 # test
